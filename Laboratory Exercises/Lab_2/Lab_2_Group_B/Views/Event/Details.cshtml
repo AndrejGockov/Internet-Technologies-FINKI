@@ -1,0 +1,21 @@
+﻿@model Lab_2_Group_B.Models.EventModel
+
+<h2>Event Details</h2>
+
+@Html.ActionLink("Home", "Index")
+
+<table class="table">
+    <thead>
+    <th>Id</th>
+    <th>Name</th>
+    <th>Location</th>
+    </thead>
+
+    <tbody>
+        <tr>
+            <td>@Model.id</td>
+            <td>@Model.name</td>
+            <td>@Model.location</td>
+        </tr>
+    </tbody>
+</table>

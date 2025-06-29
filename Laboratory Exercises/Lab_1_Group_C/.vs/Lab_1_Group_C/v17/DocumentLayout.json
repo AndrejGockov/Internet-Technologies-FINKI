@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\College\\IT\\Laboratory Exercises\\Lab_1_Group_C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D25711F-5AC9-48C1-8D5A-0B7C00F51BF8}|Lab_1_Group_C\\Lab_1_Group_C.csproj|C:\\Users\\Admin\\Documents\\College\\IT\\Laboratory Exercises\\Lab_1_Group_C\\lab_1_group_c\\glasaj.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D25711F-5AC9-48C1-8D5A-0B7C00F51BF8}|Lab_1_Group_C\\Lab_1_Group_C.csproj|solutionrelative:lab_1_group_c\\glasaj.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D25711F-5AC9-48C1-8D5A-0B7C00F51BF8}|Lab_1_Group_C\\Lab_1_Group_C.csproj|C:\\Users\\Admin\\Documents\\College\\IT\\Laboratory Exercises\\Lab_1_Group_C\\lab_1_group_c\\uspeshnoglasanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6D25711F-5AC9-48C1-8D5A-0B7C00F51BF8}|Lab_1_Group_C\\Lab_1_Group_C.csproj|solutionrelative:lab_1_group_c\\uspeshnoglasanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D25711F-5AC9-48C1-8D5A-0B7C00F51BF8}|Lab_1_Group_C\\Lab_1_Group_C.csproj|c:\\users\\admin\\documents\\college\\it\\laboratory exercises\\lab_1_group_c\\lab_1_group_c\\uspeshnoglasanje.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D25711F-5AC9-48C1-8D5A-0B7C00F51BF8}|Lab_1_Group_C\\Lab_1_Group_C.csproj|solutionrelative:lab_1_group_c\\uspeshnoglasanje.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D25711F-5AC9-48C1-8D5A-0B7C00F51BF8}|Lab_1_Group_C\\Lab_1_Group_C.csproj|C:\\Users\\Admin\\Documents\\College\\IT\\Laboratory Exercises\\Lab_1_Group_C\\lab_1_group_c\\najava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6D25711F-5AC9-48C1-8D5A-0B7C00F51BF8}|Lab_1_Group_C\\Lab_1_Group_C.csproj|solutionrelative:lab_1_group_c\\najava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D25711F-5AC9-48C1-8D5A-0B7C00F51BF8}|Lab_1_Group_C\\Lab_1_Group_C.csproj|C:\\Users\\Admin\\Documents\\College\\IT\\Laboratory Exercises\\Lab_1_Group_C\\lab_1_group_c\\glasaj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6D25711F-5AC9-48C1-8D5A-0B7C00F51BF8}|Lab_1_Group_C\\Lab_1_Group_C.csproj|solutionrelative:lab_1_group_c\\glasaj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D25711F-5AC9-48C1-8D5A-0B7C00F51BF8}|Lab_1_Group_C\\Lab_1_Group_C.csproj|C:\\Users\\Admin\\Documents\\College\\IT\\Laboratory Exercises\\Lab_1_Group_C\\lab_1_group_c\\najava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D25711F-5AC9-48C1-8D5A-0B7C00F51BF8}|Lab_1_Group_C\\Lab_1_Group_C.csproj|solutionrelative:lab_1_group_c\\najava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UspeshnoGlasanje.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\College\\IT\\Laboratory Exercises\\Lab_1_Group_C\\Lab_1_Group_C\\UspeshnoGlasanje.aspx.cs",
+              "RelativeDocumentMoniker": "Lab_1_Group_C\\UspeshnoGlasanje.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\College\\IT\\Laboratory Exercises\\Lab_1_Group_C\\Lab_1_Group_C\\UspeshnoGlasanje.aspx.cs",
+              "RelativeToolTip": "Lab_1_Group_C\\UspeshnoGlasanje.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:23:31.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UspeshnoGlasanje.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\College\\IT\\Laboratory Exercises\\Lab_1_Group_C\\Lab_1_Group_C\\UspeshnoGlasanje.aspx",
+              "RelativeDocumentMoniker": "Lab_1_Group_C\\UspeshnoGlasanje.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\College\\IT\\Laboratory Exercises\\Lab_1_Group_C\\Lab_1_Group_C\\UspeshnoGlasanje.aspx",
+              "RelativeToolTip": "Lab_1_Group_C\\UspeshnoGlasanje.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-11T15:23:14.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Glasaj.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\College\\IT\\Laboratory Exercises\\Lab_1_Group_C\\Lab_1_Group_C\\Glasaj.aspx.cs",
+              "RelativeDocumentMoniker": "Lab_1_Group_C\\Glasaj.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\College\\IT\\Laboratory Exercises\\Lab_1_Group_C\\Lab_1_Group_C\\Glasaj.aspx.cs",
+              "RelativeToolTip": "Lab_1_Group_C\\Glasaj.aspx.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA1wA8AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:33:08.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Glasaj.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\College\\IT\\Laboratory Exercises\\Lab_1_Group_C\\Lab_1_Group_C\\Glasaj.aspx",
+              "RelativeDocumentMoniker": "Lab_1_Group_C\\Glasaj.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\College\\IT\\Laboratory Exercises\\Lab_1_Group_C\\Lab_1_Group_C\\Glasaj.aspx",
+              "RelativeToolTip": "Lab_1_Group_C\\Glasaj.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-27T11:32:41.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Najava.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\College\\IT\\Laboratory Exercises\\Lab_1_Group_C\\Lab_1_Group_C\\Najava.aspx.cs",
+              "RelativeDocumentMoniker": "Lab_1_Group_C\\Najava.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\College\\IT\\Laboratory Exercises\\Lab_1_Group_C\\Lab_1_Group_C\\Najava.aspx.cs",
+              "RelativeToolTip": "Lab_1_Group_C\\Najava.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:17:49.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Najava.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\College\\IT\\Laboratory Exercises\\Lab_1_Group_C\\Lab_1_Group_C\\Najava.aspx",
+              "RelativeDocumentMoniker": "Lab_1_Group_C\\Najava.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\College\\IT\\Laboratory Exercises\\Lab_1_Group_C\\Lab_1_Group_C\\Najava.aspx",
+              "RelativeToolTip": "Lab_1_Group_C\\Najava.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-27T11:04:51.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

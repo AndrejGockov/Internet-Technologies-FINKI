@@ -1,0 +1,16 @@
+﻿@model Lab_2_Group_B.Models.EventModel
+
+<h2>Create</h2>
+
+@using (Html.BeginForm())
+{
+    <p>Enter Name:</p>
+    @Html.TextBoxFor(newEvent => newEvent.name)
+    <p>Enter Location:</p>
+    @Html.TextBoxFor(newEvent => newEvent.location)
+
+    <br />
+    <button type="submit" value="Create">Create Event</button>
+}
+
+@Html.ActionLink("Home", "Index")

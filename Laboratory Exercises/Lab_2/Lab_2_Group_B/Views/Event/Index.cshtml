@@ -1,0 +1,32 @@
+﻿@model List<Lab_2_Group_B.Models.EventModel>
+
+<h2>Table of all Events</h2>
+<br />
+
+@Html.ActionLink("Create New Event", "Create")
+<br />
+
+<table class="table">
+    <thead>
+    <th>Id</th>
+    <th>Name</th>
+    <th>Location</th>
+    <th>Details</th>
+    <th>Edit</th>
+    <th>Delete</th>
+    </thead>
+    
+    <tbody>
+        @foreach (var evnt in @Model)
+        {
+        <tr>
+            <td>@evnt.id</td>
+            <td>@evnt.name</td>
+            <td>@evnt.location</td>
+            <td>@Html.ActionLink("Details", "Details", new {id = evnt.id})</td>
+            <td>@Html.ActionLink("Edit", "Edit", new { id = evnt.id })</td>
+            <td>@Html.ActionLink("Delete", "Delete", new {id = evnt.id})</td>
+        </tr>
+        }
+    </tbody>
+</table>

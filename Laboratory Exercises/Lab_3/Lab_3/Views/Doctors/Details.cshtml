@@ -1,0 +1,50 @@
+﻿@model Lab_3.Models.Doctor
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<dt>
+    @Html.DisplayNameFor(model => model.Hospital.Name)
+</dt>
+
+<dd>
+    @Html.DisplayFor(model => model.Hospital.Name)
+</dd>
+
+<dt>
+    @Html.DisplayNameFor(model => model.Name)
+</dt>
+
+<dd>
+    @Html.DisplayFor(model => model.Name)
+</dd>
+
+<dt>Patients</dt>
+<ul>
+    @foreach (var patient in Model.Patients)
+    {
+        <li>
+            @Html.ActionLink(patient.Name, "Details", "Patients", new { id = patient.Id }, null)
+
+            @using (Html.BeginForm("RemovePatient", "Doctors", FormMethod.Post))
+            {
+                @Html.AntiForgeryToken()
+                @Html.Hidden("doctorId", Model.Id)
+                @Html.Hidden("patientId", patient.Id)
+                <button type="submit" onclick="return confirm('Are you sure you want to remove this patient?');">
+                    Remove
+                </button>
+            }
+        </li>
+    }
+</ul>
+
+
+<p>
+    @Html.ActionLink("Add Patient", "AddNewPatient", new { id = Model.Id })
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

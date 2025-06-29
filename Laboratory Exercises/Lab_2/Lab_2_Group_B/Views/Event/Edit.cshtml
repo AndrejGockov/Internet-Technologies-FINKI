@@ -1,0 +1,15 @@
+﻿@model Lab_2_Group_B.Models.EventModel
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm())
+{
+
+    @Html.TextBoxFor(evnt => evnt.name)
+    @Html.TextBoxFor(evnt => evnt.location)
+
+    <br />
+    <button type="submit" value="Edit">Save Changes</button>
+}
+
+@Html.ActionLink("Home", "Index")
