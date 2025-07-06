@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\College\\IT\\First_Midterm_Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E718F574-6973-491D-BFD0-0DF69A5AA9C0}|First_Midterm_Exam\\First_Midterm_Exam.csproj|c:\\users\\admin\\documents\\college\\it\\first_midterm_exam\\first_midterm_exam\\popolni.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E718F574-6973-491D-BFD0-0DF69A5AA9C0}|First_Midterm_Exam\\First_Midterm_Exam.csproj|solutionrelative:first_midterm_exam\\popolni.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E718F574-6973-491D-BFD0-0DF69A5AA9C0}|First_Midterm_Exam\\First_Midterm_Exam.csproj|c:\\users\\admin\\documents\\college\\it\\first_midterm_exam\\first_midterm_exam\\popolni.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E718F574-6973-491D-BFD0-0DF69A5AA9C0}|First_Midterm_Exam\\First_Midterm_Exam.csproj|solutionrelative:first_midterm_exam\\popolni.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E718F574-6973-491D-BFD0-0DF69A5AA9C0}|First_Midterm_Exam\\First_Midterm_Exam.csproj|c:\\users\\admin\\documents\\college\\it\\first_midterm_exam\\first_midterm_exam\\najava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E718F574-6973-491D-BFD0-0DF69A5AA9C0}|First_Midterm_Exam\\First_Midterm_Exam.csproj|solutionrelative:first_midterm_exam\\najava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E718F574-6973-491D-BFD0-0DF69A5AA9C0}|First_Midterm_Exam\\First_Midterm_Exam.csproj|c:\\users\\admin\\documents\\college\\it\\first_midterm_exam\\first_midterm_exam\\najava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E718F574-6973-491D-BFD0-0DF69A5AA9C0}|First_Midterm_Exam\\First_Midterm_Exam.csproj|solutionrelative:first_midterm_exam\\najava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Popolni.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\College\\IT\\First_Midterm_Exam\\First_Midterm_Exam\\Popolni.aspx.cs",
+              "RelativeDocumentMoniker": "First_Midterm_Exam\\Popolni.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\College\\IT\\First_Midterm_Exam\\First_Midterm_Exam\\Popolni.aspx.cs",
+              "RelativeToolTip": "First_Midterm_Exam\\Popolni.aspx.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwEQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:36:12.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Popolni.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\College\\IT\\First_Midterm_Exam\\First_Midterm_Exam\\Popolni.aspx",
+              "RelativeDocumentMoniker": "First_Midterm_Exam\\Popolni.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\College\\IT\\First_Midterm_Exam\\First_Midterm_Exam\\Popolni.aspx",
+              "RelativeToolTip": "First_Midterm_Exam\\Popolni.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-06T10:35:22.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Najava.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\College\\IT\\First_Midterm_Exam\\First_Midterm_Exam\\Najava.aspx.cs",
+              "RelativeDocumentMoniker": "First_Midterm_Exam\\Najava.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\College\\IT\\First_Midterm_Exam\\First_Midterm_Exam\\Najava.aspx.cs",
+              "RelativeToolTip": "First_Midterm_Exam\\Najava.aspx.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:28:15.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Najava.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\College\\IT\\First_Midterm_Exam\\First_Midterm_Exam\\Najava.aspx",
+              "RelativeDocumentMoniker": "First_Midterm_Exam\\Najava.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\College\\IT\\First_Midterm_Exam\\First_Midterm_Exam\\Najava.aspx",
+              "RelativeToolTip": "First_Midterm_Exam\\Najava.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-06T10:27:20.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
